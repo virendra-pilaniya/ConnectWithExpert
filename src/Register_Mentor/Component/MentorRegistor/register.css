@@ -1,0 +1,55 @@
+.fail-message{
+    color: red;
+}
+
+
+
+.success-message{
+    color: green ;
+}
+
+.contact .registerContainer{
+    position: relative;
+    width: 50%;
+    height: 70%;
+    min-width: 750px;
+    max-height: 10000px;
+    border-radius: 20px;
+    padding: 40px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+}
+
+.register{
+    padding: 40px 0;
+}  
+
+.register .register-title{
+  margin-top: 0;
+  font-weight: 900;
+  font-size: 2rem;
+  color: #1da1f2;
+  letter-spacing: 1px;
+}
+
+.register input{
+    margin-bottom: 18px;
+}
+
+.AuthforRegisterDiv{
+    overflow:visible ;
+}
+
+
+
+@media (max-width: 1000px) {
+    .contact .registerContainer {
+      width: 80%;
+      height: fit-content;
+      min-width: 70px;
+      /* max-height: 1000px; */
+      padding: 40px;
+      margin:30px auto;
+    }
+  }

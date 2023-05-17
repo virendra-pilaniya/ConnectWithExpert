@@ -1,0 +1,177 @@
+[   {
+      "id": 1,
+      "name": "Puran Mal Jaluthariya",
+      "email": "pmjaluthariya.eee18@itbhu.ac.in",
+      "description": "Hello I am Puran",
+      "phone": "7375823861",
+      "imgSrc":"Puran.jpeg",
+      "Interest":{
+          "Web":true ,
+          "App":true ,
+          "Ml":true ,
+          "Dl":true ,
+          "Cp":true 
+      }
+    },
+    {
+        "id": 2,
+        "name": "Om Prakash",
+        "email": "omprakash.eee18@itbhu.ac.in",
+        "description": "Hello I am Om Prakash",
+        "phone": "8127392352",
+        "imgSrc":"OmPrakash.jpeg",
+        "Interest":{
+            "Web":true ,
+            "App":false ,
+            "Ml":true ,
+            "Dl":true ,
+            "Cp":true 
+        }
+      },
+      {
+        "id": 3,
+        "name": "Akshat Agrawal",
+        "email": "pmjaluthariya.eee18@itbhu.ac.in",
+        "description": "Hello I am Akshat",
+        "phone": "7375823861",
+        "imgSrc":"akshat agrawal.jpg",
+        "Interest":{
+            "Web":false ,
+            "App":true ,
+            "Ml":true ,
+            "Dl":true ,
+            "Cp":true 
+        }
+      },
+      {
+          "id": 4,
+          "name": "Anshu Singh",
+          "email": "omprakash.eee18@itbhu.ac.in",
+          "description": "Hello I am Anshu",
+          "phone": "8127392352",
+          "imgSrc":"anshu singh.jpeg",
+          "Interest":{
+              "Web":false ,
+              "App":true ,
+              "Ml":true ,
+              "Dl":true ,
+              "Cp":false
+          }
+        },{
+          "id": 5,
+          "name": "Arvind Pathak",
+          "email": "pmjaluthariya.eee18@itbhu.ac.in",
+          "description": "Hello I am Arvind",
+          "phone": "7375823861",
+          "imgSrc":"arvind pathak.jpg",
+          "Interest":{
+              "Web":true ,
+              "App":true ,
+              "Ml":false ,
+              "Dl":true ,
+              "Cp":true 
+          }
+        },
+        {
+            "id": 6,
+            "name": "Harshit Raj",
+            "email": "omprakash.eee18@itbhu.ac.in",
+            "description": "Hello I am Harshit",
+            "phone": "8127392352",
+            "imgSrc":"Harshit raj.jpg",
+            "Interest":{
+                "Web":true ,
+                "App":false ,
+                "Ml":true ,
+                "Dl":true ,
+                "Cp":true 
+            }
+          },{
+            "id": 7,
+            "name": "Raj Ayan",
+            "email": "pmjaluthariya.eee18@itbhu.ac.in",
+            "description": "Hello I am Puran",
+            "phone": "7375823861",
+            "imgSrc":"raj ayan.jpg",
+            "Interest":{
+                "Web":true ,
+                "App":true ,
+                "Ml":false ,
+                "Dl":true ,
+                "Cp":true 
+            }
+          },
+          {
+              "id": 8,
+              "name": "Rahul Raj",
+              "email": "omprakash.eee18@itbhu.ac.in",
+              "description": "Hello I am Rahul",
+              "phone": "8127392352",
+              "imgSrc":"rahul raj.jpg",
+              "Interest":{
+                  "Web":true ,
+                  "App":false ,
+                  "Ml":true ,
+                  "Dl":false ,
+                  "Cp":true 
+              }
+            },{
+              "id": 9,
+              "name": "Ravi Prakash",
+              "email": "pmjaluthariya.eee18@itbhu.ac.in",
+              "description": "Hello I am Ravi",
+              "phone": "7375823861",
+              "imgSrc":"ravi prakash.jpg",
+              "Interest":{
+                  "Web":false,
+                  "App":true ,
+                  "Ml":true ,
+                  "Dl":true ,
+                  "Cp":true 
+              }
+            },
+            {
+                "id": 10,
+                "name": "Santosh Aryan",
+                "email": "omprakash.eee18@itbhu.ac.in",
+                "description": "Hello I am Santosh",
+                "phone": "8127392352",
+                "imgSrc":"santosh aryan.jpeg",
+                "Interest":{
+                    "Web":true ,
+                    "App":false ,
+                    "Ml":true ,
+                    "Dl":true ,
+                    "Cp":false 
+                }
+              },{
+                "id": 11,
+                "name": "Sonu Kumar",
+                "email": "pmjaluthariya.eee18@itbhu.ac.in",
+                "description": "Hello I am Sonu",
+                "phone": "7375823861",
+                "imgSrc":"sonu kumar.jpg",
+                "Interest":{
+                    "Web":true ,
+                    "App":true ,
+                    "Ml":true ,
+                    "Dl":false ,
+                    "Cp":true 
+                }
+              },
+              {
+                  "id": 12,
+                  "name": "Sunny Chopra",
+                  "email": "omprakash.eee18@itbhu.ac.in",
+                  "description": "Hello I am Sunny",
+                  "phone": "8127392352",
+                  "imgSrc":"sunny chopra.jpg",
+                  "Interest":{
+                      "Web":true ,
+                      "App":false ,
+                      "Ml":false ,
+                      "Dl":true ,
+                      "Cp":true 
+                  }
+                }
+  ]

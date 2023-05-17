@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Estonia&display=swap');
+
+.menuDiv{
+  position:fixed !important;
+  top:10px ;
+  right: 15px ;
+  z-index:1 ;
+}
+.menuDiv img{
+    height:20px ;
+    margin-right:6px ;
+   }
+.menuDiv a{
+    color:black ;
+}
+
+.MenuDialog {
+  width: 300px;
+  height: fit-content;
+  text-align: center;
+  align-items: center;
+  padding: 6% 5% 5%;
+  
+}
+.DialogColorSuccess{
+  background-color: #173e19;
+}
+.DialogColorPrimary{
+  background-color: #0c3b69;
+}
+.DialogColorFail{
+  background-color: #69310c;
+}
+
+.DialogColorVoilet{
+  background-color: #050a64;
+}
+
+.MenuDialog h3 {
+  color: white;
+  font-family: 'Estonia', cursive;
+  font-size: 3.2rem;
+}
+.MenuDialog hr{
+    width:80% ;
+    margin:7% 10% ;
+    height:3px ;
+}
+.MenuDialog li{
+    margin :0 auto !important;
+    padding:4px 16px !important ;
+}
+.MenuDialog button {
+  height: 50px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: white !important;
+ /* padding: 0px auto ; */
+}
+.MenuDialog button a{
+  padding: 12px 50px;
+}
+.MenuDialog .Become-mentor a{
+  padding:  0px !important;
+}
+.MenuDialog button:hover {
+  background-color: white;
+}
+.MenuDialog button a {
+  font-size: 1.25rem !important;
+  color:rgba(167, 161, 161, 0.897) ;
+}
